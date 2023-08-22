@@ -1,0 +1,8 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+<WSGIRequest: POST '/razorpay_integration/callback/'>
+signature verify: True
+E:\razorpay\payment_integration\razorpay_integration\views.py changed, reloading.
+Watching for file changes with StatReloader
+<WSGIRequest: POST '/razorpay_integration/callback/'>
+signature verify: True
